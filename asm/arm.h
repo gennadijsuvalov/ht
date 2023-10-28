@@ -13,10 +13,7 @@
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
    General Public License for more details.
 
-   You should have received a copy of the GNU General Public License
-   along with GDB or GAS; see the file COPYING.  If not, write to the
-   Free Software Foundation, 51 Franklin Street - Fifth Floor, Boston, MA
-   02110-1301, USA.  */
+     */
 
 /* The following bitmasks control CPU extensions:  */
 #define ARM_EXT_V1	 0x00000001	/* All processors (core set).  */
